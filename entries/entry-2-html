@@ -6,12 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-   <p>2 - Concealer </p> 
-</body>
-<p> Personally, I believe that concealer can be one of the most powerful makeups steps. You don’t realize how powerful brightning under your eyes can be until you do it. A good recomendation that is beginner friendly, is the Nars radient creamy concealer. It is the perfect mix between full and light coverage. On the image of the outline of the face, you can see where I apply it. Obviously under the eyes, and I like to put a bit on my forehead where I have some spots. If I have any acne, I will also put it on top of that. To blend the concealer, you can use a makeup sponge. </p>
-</html>
-​<img src="../images/2faceoutline.png">
-​<img src="../images/concealermakeup.png">
-​<img src="../images/narsconcealer.png">
 
+  <div class="content-box">
+    <h2>✨ Concealer</h2>
+    <p>Personally, I believe that concealer can be one of the most powerful makeups steps. You don’t realize how powerful brightning under your eyes can be until you do it. A good recomendation that is beginner friendly, is the Nars radient creamy concealer. It is the perfect mix between full and light coverage. On the image of the outline of the face, you can see where I apply it. Obviously under the eyes, and I like to put a bit on my forehead where I have some spots. If I have any acne, I will also put it on top of that. To blend the concealer, you can use a makeup sponge. </p>
+  </div>
+
+  <div class="image-box">
+     <h2>💧Where to apply:</h2> 
+    <img src="../images/2faceoutline.png" width="300">
+  </div>
+  <div class="image-box">
+    <h2>🌸Recomended Products:</h2>
+    <h4>Nars Radient Creamy Concealer</h4>
+    <img src="../images/narsconcealer.png" width="100">
+  </div>
+  <div class="image-box">
+    <h2>🪞Pesonal Example:</h2>
+    <img src="../images/concealermakeup.png" width="300">
+  </div>
+
+</body>
+</html>

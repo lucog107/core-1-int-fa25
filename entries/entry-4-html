@@ -7,16 +7,26 @@
     <link rel="stylesheet" href="styles.css">
     <title>Document</title>
 </head>
-<body>
-   <p>4 - Bronzer</p> 
+
+  <div class="content-box">
+    <h2>✨ Bronzer</h2>
+    <p>Because I personally have a more fair skin tone, bronzer is one of my favorite steps. That is because of the power it has. It can bring warmth and contour to the face. There are three types, cream, liquid, and powder. I believe that the best ones are the powder and cream. Bellow you can see the two I recommend. The best way is to use both, cream and bottom and powder on top. On the image, you can see where it is place. On you cheek it should sit right bellow where you would place your blush. Colder tones are for creating shadows and slimming the face, while warm tones mostly add life and summer to your face.</p>
+  </div>
+
+  <div class="image-box">
+     <h2>💧Where to apply:</h2> 
+    <img src="../images/faceoutlinebronzer.png" width="300">
+  </div>
+  <div class="image-box">
+    <h2>🌸Recomended Products:</h2>
+    <h4>Hoola Bronzer & Rare Beauty Contour Stick</h4>
+    <img src="../images/hoolabronzer.png" width="300">
+     <img src="../images/countourstick.jpg" width="500">
+  </div>
+  <div class="image-box">
+    <h2>🪞Pesonal Example:</h2>
+    <img src="../images/bronzermakeup.png" width="300">
+  </div>
+
 </body>
-<p>Because I personally have a more fair skin tone, bronzer is one of my favorite steps. That is because of the power it has. It can bring warmth and contour to the face. There are three types, cream, liquid, and powder. I believe that the best ones are the powder and cream. Bellow you can see the two I recommend. The best way is to use both, cream and bottom and powder on top. On the image, you can see where it is place. On you cheek it should sit right bellow where you would place your blush. Colder tones are for creating shadows and slimming the face, while warm tones mostly add life and summer to your face.</p>
 </html>
-​​<img src="../images/faceoutlinebronzer.png">
-​<img src="../images/hoolabronzer.png">
-​<img src="../images/countourstick.jpg">
-
-
-
-
-

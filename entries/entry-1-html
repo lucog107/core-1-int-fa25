@@ -1,19 +1,29 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="../styles.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <link rel="stylesheet" href="../styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 <body>
-   <p>1 - Prep Skin (Base)</p> 
-</body> 
-<p> A lot of people might thing this step does not matter, but in reality, it can be one of the most important steps in order to keep you make up on the whole day. The first step to makeup its to skin prep. I personally like to use a mix of the BIODERMA DS+ Cream with a bit of the MILK hydro grip primer. The Milk primer creates a sticky base in order for the products to stick onto, while the cream provides the perfect amount of hydration. If you use a moisturiser that is too thick and heavy, it might cause break outs through your makeup.</p>
+
+  <div class="content-box">
+    <h2>✨ Prep Skin (Base)</h2>
+    <p>A lot of people might think this step does not matter, but in reality, it can be one of the most important steps in order to keep you make up on the whole day. The first step to makeup its to skin prep. I personally like to use a mix of the BIODERMA DS+ Cream with a bit of the MILK hydro grip primer. The Milk primer creates a sticky base in order for the products to stick onto, while the cream provides the perfect amount of hydration. If you use a moisturiser that is too thick and heavy, it might cause break outs through your makeup.</p>
+  </div>
+
+  <div class="image-box">
+     <h2>💧Where to apply:</h2> 
+    <img src="../images/entry1faceoutline.png" width="300">
+  </div>
+  <div class="image-box">
+    <h2>🌸Recomended Products:</h2>
+    <h4>Bioderma DS+ Cream & MILK Hydro grip primer</h4>
+    <img src="../images/biodermacream.png" width="150">
+    <img src="../images/milkprimer.png" width="300">
+  </div>
+
+</body>
 </html>
-​<img src="../images/entry1faceoutline.png" >
-<img src="../images/biodermacream.png">
-<img src="../images/milkprimer.png" >
-
-
-

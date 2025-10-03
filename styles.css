@@ -14,8 +14,8 @@ body {
       font-family: var(--font-body);
       font-weight: 400;
       line-height: 1.6;
-      color: var(--gray-800);
-      background-color: var(--gray-50);
+      color:  #333333;
+      background-color: #fcefee; 
     }
 
     /* === TYPOGRAPHY === */
@@ -26,3 +26,23 @@ body {
       color: var(--color-secondary);
       margin-bottom: 1rem;
     }
+
+<style>
+  body { 
+    font-family: "Playfair Display", serif; 
+  }
+  .content-box, .image-box {
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px auto;
+    max-width: 720px;
+    background: #fff;
+  }
+  .image-box img { 
+    display: block; 
+    max-width: 100%; 
+    height: auto; 
+    margin: 0 auto; 
+  }
+</style>
